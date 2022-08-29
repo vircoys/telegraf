@@ -56,7 +56,7 @@ require (
 	github.com/goburrow/modbus v0.1.0 // indirect
 	github.com/goburrow/serial v0.1.0 // indirect
 	github.com/gobwas/glob v0.2.3
-	github.com/gofrs/uuid v3.3.0+incompatible
+	github.com/gofrs/uuid v4.0.0+incompatible
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/geo v0.0.0-20190916061304-5b978397cfec
 	github.com/golang/protobuf v1.5.1
@@ -80,13 +80,12 @@ require (
 	github.com/influxdata/tail v1.0.1-0.20200707181643-03a791b270e4
 	github.com/influxdata/toml v0.0.0-20190415235208-270119a8ce65
 	github.com/influxdata/wlog v0.0.0-20160411224016-7c63b0a71ef8
-	github.com/jackc/pgx/v4 v4.6.0
+	github.com/jackc/pgx/v4 v4.17.1
 	github.com/james4k/rcon v0.0.0-20120923215419-8fbb8268b60a
 	github.com/jmespath/go-jmespath v0.4.0
 	github.com/kardianos/service v1.0.0
 	github.com/karrick/godirwalk v1.16.1
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
-	github.com/lib/pq v1.3.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369
 	github.com/mdlayher/apcupsd v0.0.0-20200608131503-2bf01da7bf1b
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
@@ -110,13 +109,12 @@ require (
 	github.com/safchain/ethtool v0.0.0-20200218184317-f459e2d13664
 	github.com/sensu/sensu-go/api/core/v2 v2.6.0
 	github.com/shirou/gopsutil v3.21.6-0.20210624221800-cb512c850043+incompatible
-	github.com/shopspring/decimal v0.0.0-20200105231215-408a2507e114 // indirect
 	github.com/signalfx/golib/v3 v3.3.34
 	github.com/sirupsen/logrus v1.7.0
 	github.com/sleepinggenius2/gosmi v0.4.3
 	github.com/snowflakedb/gosnowflake v1.5.0
 	github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	github.com/tbrandon/mbserver v0.0.0-20170611213546-993e1772cc62
 	github.com/testcontainers/testcontainers-go v0.11.0
 	github.com/tidwall/gjson v1.8.0
@@ -132,11 +130,11 @@ require (
 	github.com/yuin/gopher-lua v0.0.0-20180630135845-46796da1b0b4 // indirect
 	go.starlark.net v0.0.0-20210406145628-7a1108eaa012
 	go.uber.org/multierr v1.6.0 // indirect
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210426230700-d19ff857e887
-	golang.org/x/text v0.3.4
+	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1
+	golang.org/x/text v0.3.7
 	golang.org/x/tools v0.1.0
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200205215550-e35592f146e4
 	google.golang.org/api v0.29.0
